@@ -1,0 +1,23 @@
+
+package New;
+public  class Stati{
+		
+			final void type()
+			{
+				System.out.println("Ajayaaaa super");
+			}
+		
+}
+
+class Ner extends Stati 
+{
+		void typet ()
+		{
+			System.out.println("Am going to Blast ");
+		}
+		
+		public static void main(String[] args) {
+			Ner s=new Ner();
+			s.type();
+		}
+}

@@ -1,0 +1,11 @@
+package ytPractice;
+
+public class Sample {
+	
+	String name;
+	
+	public void methOne()
+	{
+		System.out.println("Ajay here ");
+	}
+}

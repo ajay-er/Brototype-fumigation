@@ -1,0 +1,17 @@
+package prac20;
+
+public class A {
+
+	static void aj()
+	{
+		System.out.println("Ajay");
+	}
+
+}
+
+
+class Main{
+	public static void main(String[] args) {
+			
+	}
+}

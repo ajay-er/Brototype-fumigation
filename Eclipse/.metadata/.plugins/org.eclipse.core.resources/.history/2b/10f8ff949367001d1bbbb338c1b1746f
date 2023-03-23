@@ -1,0 +1,39 @@
+
+abstract class ClassHere {
+	
+		void msg()
+		{
+			System.out.println("publicssssss");
+		}
+}
+
+abstract class  A extends ClassHere {
+	
+	void abs(){
+		
+		System.out.println("ajajaja");
+		
+	} 
+	abstract void abss();
+	
+}
+
+class B extends  A{
+	
+	void  abss()
+	{
+		System.out.println("ajay");
+	}
+	
+}
+
+class Main{
+	 static public void main(String[] args) {
+		
+		B s=new B();
+		s.abs();
+		s.abss();
+		s.msg();
+		
+	}
+}

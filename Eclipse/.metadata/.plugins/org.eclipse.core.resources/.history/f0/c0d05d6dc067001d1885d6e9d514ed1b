@@ -1,0 +1,10 @@
+package practice;
+
+ class NewOne {
+
+			protected void method(){
+						
+					System.out.println("Ajay");
+					
+			}
+}

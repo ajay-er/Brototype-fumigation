@@ -1,0 +1,26 @@
+
+package New;
+public  class Stati{
+			
+			final void type()
+			{
+				System.out.println("Ajayaaaa super");
+			}
+		
+}
+
+class Ner extends Stati 
+{		
+		final int d;
+		Ner()
+		{
+			d=55;
+			System.out.println(d);
+		}
+		
+		public static void main(String[] args) {
+			Ner s=new Ner();
+			
+		
+		}
+}

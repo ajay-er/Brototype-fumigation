@@ -1,0 +1,8 @@
+package prac5;
+
+public class Two {
+
+	 static int a=10;
+	 int b = 20;
+	 
+	 }

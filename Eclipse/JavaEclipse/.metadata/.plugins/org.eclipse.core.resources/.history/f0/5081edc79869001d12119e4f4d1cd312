@@ -1,0 +1,18 @@
+package Paxk;
+import prac9.Sam;
+
+
+
+public class SampleOne extends Sam  {
+	
+	public static void main(String[] args) {
+		
+		
+		SampleOne s=new SampleOne();
+		s.myMethod();
+		
+		
+	}
+	
+
+}

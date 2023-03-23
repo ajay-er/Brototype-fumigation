@@ -1,0 +1,22 @@
+package prac9;
+
+ public class Sam {
+	 
+	 protected static int x=3;
+	protected  void myMethod()
+	{
+		System.out.println("first method");
+	}
+	
+}
+
+class Ajay extends Sam{
+		
+	Ajay()
+	{
+		System.out.println("Second method");
+	}
+	
+}
+
+

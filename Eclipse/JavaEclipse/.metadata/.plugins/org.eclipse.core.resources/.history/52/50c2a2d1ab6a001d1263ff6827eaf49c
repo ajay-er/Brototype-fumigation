@@ -1,0 +1,49 @@
+package prac16;
+
+ interface NewHerit {
+	
+	abstract void inherit();
+	void absract();
+	
+	default void ff()
+	{
+		System.out.println("sdjf");
+	}
+	
+	static void ffe()
+	{
+		System.out.println();
+	}
+
+}
+
+
+ class Hi implements NewHerit{
+		
+		public void inherit ()
+		{
+			System.out.println("ajy");
+			
+		}
+
+		@Override
+		public void absract() {
+			// TODO Auto-generated method stub
+			System.out.println("Sjsy");
+		}
+}
+ 
+ class h{
+	
+	 public static void main(String[] args) {
+		 		
+		 		Hi s=new Hi();
+		 		s.inherit();
+		 		s.ff();
+		 		s.absract();
+		 		s.ffe();
+	}
+	 
+ }
+
+

@@ -1,0 +1,16 @@
+package prac17;
+
+public class First {
+		
+	private String name;
+	 final void meh()
+	{
+		
+	}
+	  public static void main(String[] args) {
+
+	    First obj = new First();
+	    System.out.println("The name is " + obj.name);
+	  }
+	
+}

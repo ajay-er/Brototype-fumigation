@@ -1,0 +1,29 @@
+package prac10;
+
+public class Prob {
+	
+	void Methodr()
+	{
+		System.out.println("1 st");
+	}
+}
+
+
+class Sec extends Prob{
+	void Method()
+	{
+		System.out.println("1 st..");
+	}
+}
+
+class Third extends Sec {
+		
+		public static void main(String[] args) {
+			
+			Third s=new Third();
+			s.Methodr();
+			s.Method();
+			
+		}
+	
+}

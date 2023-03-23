@@ -1,0 +1,10 @@
+
+public class JavaL {
+	
+	public static void main(String[] args) {
+		
+				C s=new C();
+				s.data();
+	}
+
+}

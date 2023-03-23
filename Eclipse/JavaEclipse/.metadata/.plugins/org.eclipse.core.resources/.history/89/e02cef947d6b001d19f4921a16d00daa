@@ -1,0 +1,52 @@
+package prac20;
+
+public class A {
+
+	A()
+	{
+		this(3);
+		System.out.println("1st");
+	}
+	
+	A(int x)
+	{	
+		this(3.3f);
+		System.out.println("Second");
+	}
+	
+	A(float x)
+	{
+		System.out.println("Third");
+	}
+	
+	public static void main(String[] args) {
+		A s=new A();
+	}
+
+}
+
+class B extends A {
+		
+			B()
+			{
+				System.out.println("B1");
+			}
+			B(int d,int x)
+			{
+				System.out.println("B2");
+
+			}
+			B(int s)
+			{
+				System.out.println("B3");
+
+			}
+	
+	
+}
+
+
+
+
+
+

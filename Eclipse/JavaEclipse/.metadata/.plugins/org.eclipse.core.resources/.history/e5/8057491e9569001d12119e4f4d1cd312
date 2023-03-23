@@ -1,0 +1,31 @@
+package prac9;
+
+ class Sam {
+		
+	void myMethod()
+	{
+		System.out.println("first method");
+	}
+	
+}
+
+class Ajay{
+		
+	public void SecondMethod()
+	{
+		System.out.println("Second method");
+	}
+	
+}
+
+
+class Main{
+		
+	public static void main(String[] args) {
+		
+		Ajay s=new Ajay();
+		s.SecondMethod();
+		
+	}
+	
+}

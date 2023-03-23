@@ -1,0 +1,16 @@
+package prac14;
+
+public class  StaticClass {
+
+	static class Stati
+	{
+		 int a =10;
+	}
+
+	
+	
+	public static void main(String[] args) {
+		StaticClass.Stati s = new StaticClass.Stati();
+		System.out.println(s.a);
+	}
+}

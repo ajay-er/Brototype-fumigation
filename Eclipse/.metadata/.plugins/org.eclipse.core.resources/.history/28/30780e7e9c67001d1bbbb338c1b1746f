@@ -1,0 +1,12 @@
+package twentyThree;
+twentyThree
+
+  public class A {
+
+		 void data()
+		{
+			System.out.println("first  s constroctor");
+		}
+}
+  
+

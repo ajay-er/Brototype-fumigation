@@ -1,0 +1,26 @@
+public class Stati {
+  private String color;
+  
+  // Getter
+  public String getColor() {
+    return color;
+  }
+  
+  // Setter
+  public void Color(String c) {
+	  
+	  
+	  this.color = c;
+	  System.out.println(color);
+    
+  }
+}
+
+class A {
+	public static void main(String[] args) {
+		Stati s=new Stati();
+		s.getColor();
+		s.Color("Black");
+		
+	}
+}

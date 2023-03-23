@@ -1,0 +1,29 @@
+
+class Entr {
+	
+		void method1()
+		{
+			System.out.println("Ajay");
+		}
+		
+
+}
+
+class Shift extends Entr{
+
+	@Override
+	 void method1() {
+System.out.println("saajan");		
+	}
+
+	
+	
+	
+}
+
+class Main{
+	public static void main(String[] args) {
+				Shift sh=new Shift();
+				sh.method1();
+	}
+}

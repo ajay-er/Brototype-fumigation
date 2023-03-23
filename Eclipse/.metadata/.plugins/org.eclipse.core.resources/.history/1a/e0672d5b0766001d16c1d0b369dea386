@@ -1,0 +1,17 @@
+package thisIsSuper;
+
+public class This {
+		
+		int x=8;
+		
+		int method(int x )
+		{
+			x=5;
+			return x;
+		}
+		public static void main(String[] args) {
+				This s=new This();
+			int 	A=s.method(66);
+				System.out.println(A);
+		}
+}	

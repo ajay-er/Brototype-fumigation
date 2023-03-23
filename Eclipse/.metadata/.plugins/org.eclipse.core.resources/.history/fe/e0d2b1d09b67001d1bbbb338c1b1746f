@@ -1,0 +1,25 @@
+
+
+  public class A {
+
+		 void data()
+		{
+			System.out.println("first constroctor");
+		}
+}
+  
+  class B 
+  {
+	  	public void sec()
+	  	{
+	  		System.out.println("Middle");
+	  	}
+  }
+  
+class D 
+{
+		void disp()
+		{
+			System.out.println("second constructor");
+		}
+}

@@ -1,0 +1,25 @@
+
+
+ class  add  implements Implemtg {
+	 
+	 public void nasseb()
+	 {
+		System.out.println("print nasseb"); 
+	 }
+	
+	public void Names() {
+			System.out.println("Names:  ");
+		
+	}
+
+	@Override
+	public void Ajau() {
+		System.out.println("Programing");
+		
+	}
+	
+	}
+		
+	
+}
+

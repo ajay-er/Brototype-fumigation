@@ -1,0 +1,14 @@
+package prac14;
+
+public class  StaticClass {
+
+	static class Stati
+	{
+		static int a =10;
+	}
+	
+	public static void main(String[] args) {
+		StaticClass s = new StaticClass();
+		System.out.println(Stati.a);
+	}
+}

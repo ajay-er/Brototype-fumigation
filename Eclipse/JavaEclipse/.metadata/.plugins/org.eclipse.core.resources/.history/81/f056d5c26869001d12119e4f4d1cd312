@@ -1,0 +1,23 @@
+package prac5;
+
+public class One {
+	
+	static int x=3;
+	int k=4;
+	
+	static int Onet(int x)
+	{
+		return x*x;
+	}
+	
+	
+	public static void main(String[] args) {
+		One s=new One();
+		System.out.println(s.k);
+		Two t =  new Two();
+		System.out.println(t.b);
+		System.out.println(Two.a);
+	
+	
+}
+}

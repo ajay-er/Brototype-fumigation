@@ -1,0 +1,21 @@
+package ytPractice;
+
+public class Sample  {
+	
+	class sample1{
+		
+		static int ajay1=10;
+		
+	}
+	String name;
+	static int ajay=1000;
+	
+	public void methOne()
+	{
+		sample1 s=new sample1();
+		System.out.println();
+	}
+	public static void main(String[] args) {
+		System.out.println(ajay);
+	}
+}

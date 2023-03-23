@@ -1,0 +1,24 @@
+package YoutubeAlexee;
+
+public class Example {
+	
+	static String name="I am coding at mid night";
+	void methodOne()
+	{
+		System.out.println("inside Method one .....");
+	}
+	public void methodOne(int a )
+	{
+		System.out.println("Inside poly method  :-"+a);
+	}
+	static void methodOne1()
+	{
+		System.out.println(name);
+	}
+	
+	
+	public static void main(String[] args) {
+		
+			System.out.println(name);
+	}
+}

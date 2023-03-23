@@ -1,0 +1,31 @@
+package prac16;
+
+
+interface NewHerit {
+	
+	
+		static int x=5;
+		final int s=4;
+
+ }
+
+
+ class Hi implements NewHerit{
+		
+		
+		
+		
+}
+ 
+ class h{
+	
+	 public static void main(String[] args) {
+		 		
+		 		
+		 		Hi s=new Hi();
+		 		System.out.println(s.s+ " "+s.x);
+	}
+	 
+ }
+
+

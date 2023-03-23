@@ -1,0 +1,17 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:array,org.eclipse.launchbar.core.descriptorType.default\:arrayPrint,org.eclipse.launchbar.core.descriptorType.default\:calculator,org.eclipse.launchbar.core.descriptorType.default\:crossRoads,org.eclipse.launchbar.core.descriptorType.default\:getarray,org.eclipse.launchbar.core.descriptorType.default\:matx,org.eclipse.launchbar.core.descriptorType.default\:MyClass,org.eclipse.launchbar.core.descriptorType.default\:primenumber,org.eclipse.launchbar.core.descriptorType.default\:Triangle$starPatern,org.eclipse.launchbar.core.descriptorType.default\:pattern4,org.eclipse.launchbar.core.descriptorType.default\:absr,org.eclipse.launchbar.core.descriptorType.default\:instance,org.eclipse.launchbar.core.descriptorType.default\:Protect,org.eclipse.launchbar.core.descriptorType.default\:example,org.eclipse.launchbar.core.descriptorType.default\:Sample,org.eclipse.launchbar.core.descriptorType.default\:Main (1),org.eclipse.launchbar.core.descriptorType.default\:main,org.eclipse.launchbar.core.descriptorType.default\:Main (2),org.eclipse.launchbar.core.descriptorType.default\:Interface,org.eclipse.launchbar.core.descriptorType.default\:ClassTwo,org.eclipse.launchbar.core.descriptorType.default\:This,org.eclipse.launchbar.core.descriptorType.default\:V,org.eclipse.launchbar.core.descriptorType.default\:Second,org.eclipse.launchbar.core.descriptorType.default\:A,org.eclipse.launchbar.core.descriptorType.default\:Class,org.eclipse.launchbar.core.descriptorType.default\:JavaL
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:A/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:A/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Interface/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:absr/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:absr/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:array/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:array/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:calculator/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:calculator/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:instance/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:main/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:main/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

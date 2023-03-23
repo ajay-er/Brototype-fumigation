@@ -1,0 +1,23 @@
+
+
+ class C {
+
+		C()
+		{
+			System.out.println("first constroctor");
+		}
+}
+class D extends C
+{
+		D()
+		{
+			System.out.println("D constructor");
+		}
+}
+public class A {
+	
+	public static void main(String[] args) {
+		D obj=new D();
+		
+	}
+}

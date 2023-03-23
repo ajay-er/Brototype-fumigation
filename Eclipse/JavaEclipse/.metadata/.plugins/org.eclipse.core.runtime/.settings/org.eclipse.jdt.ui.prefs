@@ -1,0 +1,18 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="pack1.A"><rhs name\="pack1.A"/><rhs name\="pack1.Hai"/></lhs><lhs name\="pack1.Abs"><rhs name\="pack1.Hai"/></lhs><lhs name\="pack1.Hai"><rhs name\="pack1.Hai"/></lhs><lhs name\="pack3.C"><rhs name\="pack3.C"/><rhs name\="pack4.A"/></lhs><lhs name\="pack4.A"><rhs name\="pack4.A"/></lhs><lhs name\="prac4.WithoOutMain"><rhs name\="prac4.WithoOutMain"/></lhs><lhs name\="prac5.One"><rhs name\="prac5.One"/></lhs><lhs name\="prac6.Here"><rhs name\="prac6.Here"/></lhs><lhs name\="prac7.One"><rhs name\="prac7.One"/></lhs><lhs name\="prac9.Sam"><rhs name\="prac9.Sam"/><rhs name\="Paxk.SampleOne"/></lhs><lhs name\="Paxk.SampleOne"><rhs name\="Paxk.SampleOne"/></lhs><lhs name\="prac9.Ajay"><rhs name\="prac9.Sam"/><rhs name\="Paxk.SampleOne"/></lhs><lhs name\="prac11.Hi"><rhs name\="prac11.Hi"/></lhs><lhs name\="prac13.A"><rhs name\="prac13.A"/></lhs><lhs name\="New.Stati"><rhs name\="New.Stati"/></lhs><lhs name\="prac14.StaticClass$Stati"><rhs name\="prac14.StaticClass$Stati"/></lhs><lhs name\="prac15.Hi"><rhs name\="prac15.Hi"/></lhs><lhs name\="Pck.Cons"><rhs name\="Pck.Cons"/></lhs><lhs name\="prac17.First"><rhs name\="prac17.First"/></lhs><lhs name\="GetSet.Set"><rhs name\="GetSet.Set"/></lhs><lhs name\="prac20.A"><rhs name\="prac20.A"/></lhs><lhs name\="prac21.A"><rhs name\="prac21.A"/></lhs></history>
+content_assist_number_of_computers=12
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=22
+spelling_ignore_ampersand_in_properties=true
+spelling_ignore_digits=true
+spelling_ignore_java_strings=true
+spelling_ignore_mixed=true
+spelling_ignore_non_letters=true
+spelling_ignore_sentence=true
+spelling_ignore_single_letters=true
+spelling_ignore_upper=true
+spelling_ignore_urls=true
+spelling_locale_initialized=true
+spelling_user_dictionary_encoding=
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

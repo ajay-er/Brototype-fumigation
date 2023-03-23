@@ -1,0 +1,29 @@
+package prac5;
+
+public class One {
+	
+	 int x=3;
+	
+	public static void main(String[] args) {
+				
+		System.out.println(Two.a);
+		hello();
+		Hi();
+		}
+	
+	 static void hello() {
+		
+		
+		Two.a = 230;
+		Two.b=55;
+	}
+	
+	
+	static void Hi()
+	{
+		System.out.println(this.x);
+		One.hello();
+		
+		
+	}
+}

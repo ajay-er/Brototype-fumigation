@@ -1,0 +1,19 @@
+package prac21;
+
+ class A {
+	 static int a=59;
+	
+	void met()
+	{
+		int a=5;
+	}
+	
+	public static void main(String[] args) {
+			System.out.println(A.a);
+			 A s=new A();
+			 s.met();
+	}
+
+}
+ 
+ 

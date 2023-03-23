@@ -1,0 +1,9 @@
+
+public interface Implemtg {
+
+	final String name="Ajay is hardworker: ";
+	
+	void Names();
+	void Ajau();
+	
+}

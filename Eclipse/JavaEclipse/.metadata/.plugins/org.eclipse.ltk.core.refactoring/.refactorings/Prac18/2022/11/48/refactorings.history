@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;GetSet.Set.cash&apos; in &apos;GetSet.Set&apos;&#x0D;&#x0A;- Original project: &apos;Prac18&apos;&#x0D;&#x0A;- Original element: &apos;GetSet.Set.cash&apos;&#x0D;&#x0A;- Getter method name: &apos;getCash&apos;&#x0D;&#x0A;- Setter method name: &apos;setCash&apos;&#x0D;&#x0A;- Field visibility: &apos;public&apos;&#x0D;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;cash&apos;" flags="589830" getter="getCash" id="org.eclipse.jdt.ui.self.encapsulate" input="/src&lt;GetSet{Set.java[Set^cash" insertion="-1" setter="setCash" stamp="1669164591971" version="1.0" visibility="1"/>
+</session>

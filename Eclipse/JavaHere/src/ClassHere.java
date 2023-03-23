@@ -1,0 +1,61 @@
+
+abstract class ClassHere {
+	
+		abstract void maaasg();
+		abstract void abss();
+		
+		
+		ClassHere()
+		{
+			System.out.println("constructor");
+		}
+		
+		
+}
+
+
+
+abstract class  A extends ClassHere {
+	
+ void abss()
+	{
+		System.out.println("A abss method ");
+	}
+	
+
+	
+	
+	
+}
+
+
+
+
+class B extends  A{
+	
+	void abss()
+	{
+	
+		System.out.println("B abss");
+	}
+	
+	void maaasg()
+	{
+		
+	}
+	
+}
+
+
+class Main{
+	 static public void main(String[] args) {
+		
+		B s=new B();
+		s.abss();
+		
+		
+		
+		
+		
+	}
+}

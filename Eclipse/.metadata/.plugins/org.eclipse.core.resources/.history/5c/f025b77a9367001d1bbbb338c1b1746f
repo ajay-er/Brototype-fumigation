@@ -1,0 +1,27 @@
+
+abstract class ClassHere {
+	
+		void msg()
+		{
+			System.out.println("publicssssss");
+		}
+}
+
+class A extends ClassHere {
+	
+	void abs(){
+		
+	}
+	
+}
+
+class Main{
+	public static void main(String[] args) {
+
+		A s1=new A();
+		s1.abs();
+		s1.msg();
+		
+		
+	}
+}

@@ -1,0 +1,26 @@
+package prac5;
+
+public class One {
+	
+	static int x=3;
+	
+	void Onet()
+	{
+		x=4;
+	}
+	
+	public static void main(String[] args) {
+		
+		One s=new One();
+		System.out.println(s.x);
+		s.Onet();
+		One c=new One();
+		System.out.println(s.x);
+		
+		
+		
+	}
+	
+	
+	
+}

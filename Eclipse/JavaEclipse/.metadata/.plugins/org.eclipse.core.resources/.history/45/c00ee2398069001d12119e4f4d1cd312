@@ -1,0 +1,25 @@
+package prac6;
+
+public class Here {
+		
+	int a=6333;
+	
+	void  Here1(int a)
+	{	
+		a=this.a;
+		
+	}
+	
+	public static void main(String[] args) {
+		
+		Here s=new Here();
+		s.Here1(5);
+		
+		System.out.println(s.a);
+		
+		
+		
+		
+	}
+	
+}

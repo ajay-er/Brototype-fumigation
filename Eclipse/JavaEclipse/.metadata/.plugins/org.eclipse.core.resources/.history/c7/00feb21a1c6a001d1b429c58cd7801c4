@@ -1,0 +1,29 @@
+package prac12;
+
+public class One {
+		
+	One (int x)
+	{
+		System.out.println("1st constructor...");
+	}
+	
+}
+
+class Two extends One{
+		
+	Two()
+	{
+		super(3);
+		System.out.println("Second Construcor");
+		
+	}
+}
+
+
+class Three{
+		
+		public static void main(String[] args) {
+			Two s=new Two();
+			
+		}
+}

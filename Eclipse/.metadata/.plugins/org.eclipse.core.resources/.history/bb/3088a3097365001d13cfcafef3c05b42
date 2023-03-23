@@ -1,0 +1,9 @@
+package ytPractice2;
+
+public class Protect {
+	protected void naseeb()
+	{
+		System.out.println("NaseebEasy");
+
+		}
+}

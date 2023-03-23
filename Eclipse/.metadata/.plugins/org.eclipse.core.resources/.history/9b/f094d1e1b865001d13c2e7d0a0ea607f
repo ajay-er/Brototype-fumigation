@@ -1,0 +1,19 @@
+
+
+public class Interface implements Implemtg {
+
+	
+	public void Names() {
+			System.out.println("Names:  ");
+		
+	}
+
+	@Override
+	public void Ajau() {
+		System.out.println("Programing");
+		
+	}
+		
+		
+	
+}

@@ -1,0 +1,28 @@
+package prac7;
+
+public class One {
+	
+	One ()
+	{
+		System.out.println("Ajay");
+	}
+	
+	One (int x)
+	{	
+		this();
+		System.out.println(x);
+	}
+	
+	
+}
+
+
+
+class Two{
+	
+	public static void main(String[] args) {
+		One s=new One(5);
+		
+	}
+	
+}

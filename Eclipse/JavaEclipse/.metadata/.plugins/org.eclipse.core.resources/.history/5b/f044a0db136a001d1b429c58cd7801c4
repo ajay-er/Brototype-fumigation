@@ -1,0 +1,19 @@
+package prac11;
+
+public class Hi {
+	
+		int x=5;
+		public void method()
+		{
+			System.out.println("Ajay");
+		}
+}
+
+
+class Hello{
+	public static void main(String[] args) {
+		
+			Hi s=new Hi();
+			s.method();
+	}
+}

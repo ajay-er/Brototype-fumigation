@@ -1,0 +1,20 @@
+package prac5;
+
+public class One {
+	
+	static int x=3;
+	
+	public static void main(String[] args) {
+		
+		One s=new One();
+		System.out.println(x);
+		x++;
+		System.out.println(x);
+		x++;
+		System.out.println(x);
+		
+	}
+	
+	
+	
+}

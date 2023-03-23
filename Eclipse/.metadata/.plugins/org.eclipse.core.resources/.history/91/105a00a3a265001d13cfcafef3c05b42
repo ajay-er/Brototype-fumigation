@@ -1,0 +1,21 @@
+
+public class Interface implements Implemtg {
+		
+		public static void main(String[] args) {
+			Implemtg in=new Implemtg() {
+				
+				@Override
+				public void Names() {
+					System.out.println("Here i am");
+				}
+			
+		};
+	
+}
+
+		@Override
+		public void Names() {
+			// TODO Auto-generated method stub
+			
+		}
+}

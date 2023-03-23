@@ -1,0 +1,21 @@
+
+abstract class ClassHere {
+	
+		void msg()
+		{
+			System.out.println("public");
+		}
+}
+
+class A extends ClassHere {
+	
+	
+}
+
+class Main{
+	public static void main(String[] args) {
+		
+		ClassHere s=new ClassHere() ;
+		
+	}
+}

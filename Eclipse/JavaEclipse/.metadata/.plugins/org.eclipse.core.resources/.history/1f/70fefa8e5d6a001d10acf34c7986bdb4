@@ -1,0 +1,18 @@
+package prac15;
+
+public class Hi {
+		
+			static void method()
+			{
+				System.out.println("1");
+			}
+			static void method(int x)
+			{
+				System.out.println("2");
+			}
+			
+			public static void main(String[] args) {
+				Hi s=new  Hi();
+				s.method(5);
+			}
+}

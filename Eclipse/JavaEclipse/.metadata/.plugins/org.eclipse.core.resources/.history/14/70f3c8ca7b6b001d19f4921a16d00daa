@@ -1,0 +1,18 @@
+package prac20;
+
+public class A {
+
+	public static void aj()
+	{
+		System.out.println();
+	}
+
+}
+
+
+class Main{
+	
+	public static void main(String[] args) {
+			A.aj();
+	}
+}

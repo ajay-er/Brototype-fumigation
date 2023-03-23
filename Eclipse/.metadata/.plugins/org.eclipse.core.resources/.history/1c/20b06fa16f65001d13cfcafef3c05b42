@@ -1,0 +1,24 @@
+package ytPractice;
+
+public class Sample  {
+	
+	static class Sample1{
+		
+		 static int ajay1=2121;
+		
+	}
+	String name;
+	static int naseeb=1000;
+	
+	
+	public void methOne()
+	{
+		System.out.println();
+	}
+	public static void main(String[] args) {
+		 Sample.Sample1 n=new Sample.Sample1();
+		System.out.println(n.ajay1);		
+		
+		
+	}
+}

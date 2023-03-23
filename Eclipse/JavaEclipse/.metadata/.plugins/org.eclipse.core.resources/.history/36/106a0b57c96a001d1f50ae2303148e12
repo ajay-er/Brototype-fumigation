@@ -1,0 +1,24 @@
+package GetSet;
+
+public class Set {
+		private String cash;
+
+		public String getCash() {
+			return cash;
+		}
+
+		public void setCash(String cash) {
+			this.cash = cash;
+		}
+}
+
+class Main{
+	
+	public static void main(String[] args) {
+		Set d=new Set();
+		d.getCash();
+		
+		
+	}
+	
+}

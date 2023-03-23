@@ -1,0 +1,32 @@
+package prac8;
+
+interface One
+	{
+		
+		void hi();
+		
+	
+	}
+interface  eww
+{
+	
+}
+	
+	
+	
+
+
+class Two implements One,eww {
+
+	@Override
+	public void hi() {
+		// TODO Auto-generated method stub
+		System.out.println("Ajay...");
+	}
+	
+	public static void main(String[] args) {
+		Two s=new Two();
+		s.hi();
+	}
+	
+}

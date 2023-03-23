@@ -1,0 +1,26 @@
+package New;
+
+public class Stati {
+  private String color;
+  
+  // Getter
+  public void NO(String c) {
+	 this.color=c;
+	  System.out.println(color);
+  }
+  
+  // Setter
+  public void Color() {
+	 
+    
+  }
+}
+
+class A {
+	public static void main(String[] args) {
+		Stati s=new Stati();
+		s.NO("White");
+		
+		
+	}
+}

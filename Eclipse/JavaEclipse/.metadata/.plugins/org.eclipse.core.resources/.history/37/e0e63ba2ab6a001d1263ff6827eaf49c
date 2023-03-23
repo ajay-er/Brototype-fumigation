@@ -1,0 +1,25 @@
+package prac16;
+
+public interface NewHerit {
+	
+	abstract void inherit();
+	void absract();
+
+}
+
+
+ class Hi implements NewHerit{
+		
+		public void inherit ()
+		{
+			
+		}
+
+		@Override
+		public void absract() {
+			// TODO Auto-generated method stub
+			
+		}
+}
+
+

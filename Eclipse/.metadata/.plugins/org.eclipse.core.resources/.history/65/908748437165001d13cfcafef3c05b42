@@ -1,0 +1,25 @@
+package ytPractice;
+
+public class Sample  {
+	
+	 class Sample1{
+		
+		  int ajay1=20001;
+		
+	}
+	class Sample2{
+		void method()
+		{
+			System.out.println("Ajay typing....");
+		}
+	}
+	public static void main(String[] args) {
+		Sample s=new Sample();
+		Sample.Sample1 n=s.new Sample1();
+		Sample.Sample2 s1=s.new Sample2();
+		s1.method();
+		System.out.println(n.ajay1);		
+		
+		
+	}
+}

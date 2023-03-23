@@ -1,0 +1,12 @@
+package packNew;
+import prac11.Hi;
+
+public class Sample {
+		
+		public static void main(String[] args) {
+				Hi a=new Hi();
+				a.method();
+				a.x();
+				
+			}
+}

@@ -1,0 +1,18 @@
+package prac8;
+
+final class One {
+		
+	One()
+	{
+		System.out.println("Ajay");
+	}
+	
+	
+}
+
+class Two {
+	public static void main(String[] args) {
+		One s=new One();
+		
+	}
+}

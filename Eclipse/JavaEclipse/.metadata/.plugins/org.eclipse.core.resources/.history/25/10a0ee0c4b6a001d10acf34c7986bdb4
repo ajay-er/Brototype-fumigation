@@ -1,0 +1,16 @@
+package prac14;
+
+public class  StaticClass {
+
+	
+	
+	public static void main(String[] args) {
+//		StaticClass.Stati s = new StaticClass.Stati();
+		
+//		 StaticClass myOuter = new StaticClass();
+//		 StaticClass.Stati myInner = myOuter.new Stati();
+		System.out.println();
+		Hi.a=10;
+		Hi.hi();;
+	}
+}

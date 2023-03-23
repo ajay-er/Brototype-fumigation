@@ -1,0 +1,33 @@
+
+
+  class C {
+
+		void data()
+		{
+			System.out.println("first constroctor");
+		}
+}
+  
+  class B extends C
+  {
+	  	void sec()
+	  	{
+	  		System.out.println("Middle");
+	  	}
+  }
+  
+class D extends C
+{
+		void disp()
+		{
+			System.out.println("second constructor");
+		}
+}
+public class A {
+	
+	public static void main(String[] args) {
+		B obj=new B();
+		obj.sec();
+		
+	}
+}

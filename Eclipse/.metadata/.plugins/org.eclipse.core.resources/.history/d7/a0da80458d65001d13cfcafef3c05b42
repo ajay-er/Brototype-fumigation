@@ -1,0 +1,13 @@
+package YoutubeAlexee;
+
+public class ClassTwo {
+	
+		public static void main(String[] args) {
+			Encaps en=new Encaps();
+			
+			en.setMethod("ajay");
+			String y=en.getMethod();
+			System.out.println(y);
+		}
+
+}

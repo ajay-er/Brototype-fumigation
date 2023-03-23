@@ -1,0 +1,26 @@
+package prac20;
+
+public class A {
+	
+	static void method()
+	{
+		System.out.println();
+	}
+	
+
+
+}
+
+
+class B extends A{
+	static void method()
+	{
+		System.out.println("B");
+	}
+}
+
+class Main{
+	public static void main(String[] args) {
+		B.method();
+	}
+}

@@ -1,0 +1,11 @@
+package YoutubeAlexee;
+
+public class ExampleTwo {
+		
+	void methodFour()
+	{
+		System.out.println("Inherited worked.........."); 
+	}
+	
+		
+}

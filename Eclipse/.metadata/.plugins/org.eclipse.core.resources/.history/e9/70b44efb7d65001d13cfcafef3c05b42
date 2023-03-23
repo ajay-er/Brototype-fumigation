@@ -1,0 +1,31 @@
+package YoutubeAlexee;
+
+public class Example extends ExampleTwo{
+	
+	static String name="I am coding at mid night";
+	void methodOne()
+	{
+		System.out.println("inside Method one .....");
+	}
+	public void methodOne(int a )
+	{
+		System.out.println("Inside poly method  :-"+a);
+	}
+	static void methodOne1()
+	{
+		System.out.println(name);
+	}
+	void methodFour()
+	{
+		System.out.println("Changed Method");
+	}
+	
+	
+	public static void main(String[] args) {
+		Example s=new Example();
+		s.methodOne();
+		s.methodFour();
+		
+		
+}
+}

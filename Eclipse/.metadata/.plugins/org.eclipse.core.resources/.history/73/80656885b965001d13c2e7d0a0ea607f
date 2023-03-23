@@ -1,0 +1,19 @@
+
+ interface Implemtg {
+
+	final String name="Ajay is hardworker: ";
+	
+	void Names();
+	void Ajau();
+	class Main
+	{
+		public static void main(String[] args) {
+				add obj=new add();
+				obj.Ajau();
+				obj.nasseb();
+				obj.Names();
+				String s=obj.name;
+				System.out.println(s);
+		}
+}
+
