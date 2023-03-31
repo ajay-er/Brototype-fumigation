@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "pdf3",
+			"path": "../../pdf3"
+		},
+		{
+			"name": "PatternPractice",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c"
+		}
+	}
+}
